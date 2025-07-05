@@ -44,14 +44,7 @@ Implement and evaluate Support Vector Machines (SVM) for both linear and non-lin
 
 ##  Visualizations
 - 2D decision boundaries for both Linear and RBF kernels.
-- Confusion matrix and metrics printed in console.
-
----
-
-## File Structure
-├── breast-cancer.csv
-├── aiml-task7.ipynb
-└── README.md
+- Confusion matrix and metrics printed in console
 
 ---
 
